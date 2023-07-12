@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋 , I'm Vivek K</h1>
 <h3 align="center">A passionate Data Science Student..</h3>
-<img align="top" alt="GIF" height="250px" width="500px" src="https://media2.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47p44m8gi2io9utf78zkqa2u26lks4cfw3rx8wzosh&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
+<img align="top" alt="GIF" height="250px" width="500px" src="https://media0.giphy.com/media/Y2siFL8PCUm5ucFBuS/giphy.gif?cid=ecf05e47uwx9fu2k2l1wdnk0zd92c5eetsj3jeikaslto3fe&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
 <img align="left" src="https://em-content.zobj.net/source/microsoft-teams/363/robot_1f916.png" alt="pp" width="50" height="50" /> </a>
 - I love learning as a process and mostly about new things...
