@@ -13,7 +13,7 @@
 
 - 🤝🏼 I’m looking to collaborate on **topics related to Data Science, Machine Learning and Artificial Intellegence**
 
-- 🤖 I’m currently mastering **Python, Tableau, R, MySQL, Artificial intellegence and Deep learning**
+- 🤖 I’m currently mastering **Python, Tableau, R, MySQL, Artificial intellegence,LLM and Deep learning**
 
 - 📫 You can reach me on my email id **vivek.k.yadav1995@gmail.com**
 
